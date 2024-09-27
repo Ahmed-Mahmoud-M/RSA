@@ -1,4 +1,5 @@
-
+from RSA import RSA 
 if __name__ == '__main__':
-    print("RSA project")
+    rsa = RSA()
+
     
